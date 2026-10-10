@@ -13,7 +13,7 @@
 
 <h1 align="center">Cyclops</h1>
 
-<p align="center"><strong><em>One eye to find them all.</em></strong></p>
+<p align="center"><strong><em>One eye to find them all</em></strong></p>
 
 <p align="center">
   <a href="https://zurp-astronomics.github.io/cyclops/">Website</a> ·

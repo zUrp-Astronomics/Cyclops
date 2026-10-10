@@ -8,8 +8,8 @@
 
 name: Cyclops
 tagline: >-
-  Autonomous embedded astrometry finder: one eye on the sky, so your visual scope always knows where
-  it points.
+  An autonomous plate-solving finder: your visual telescope always knows where it points, with no
+  imaging camera and no laptop.
 slogan: One eye to find them all
 category: Camera
 section: cameras          # mounts | cameras | gadgets | future
