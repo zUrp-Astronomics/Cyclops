@@ -1,7 +1,8 @@
 # Cyclops
 
 Autonomous astrometry finder (plate-solving) for visual telescopes — in design phase: no code, no
-hardware files, no test suite yet. The framing lives in the workshop, `spec.md`.
+hardware files, no test suite yet. This repository holds no specification: what the product is meant
+to do is only described in `README.md` and `9_Assets/zurp.yml`.
 
 ## Stack
 
